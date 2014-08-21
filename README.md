@@ -1,4 +1,0 @@
-datasciencecoursera
-======
-
-fundamentals of R
