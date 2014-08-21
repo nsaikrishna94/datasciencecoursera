@@ -1,4 +1,4 @@
-basicR
+datasciencecoursera
 ======
 
 fundamentals of R
